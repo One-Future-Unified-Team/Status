@@ -14,13 +14,19 @@ sites:
 
 status-website:
   baseUrl: /Status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://software-and-website-developer-team.github.io/logo.png
   name: SWDT Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Software and Website Developer Team Status"
+  introMessage: Welcome to the official status page of Software and Website Developer Team. A place to know more about the status of Software and Website Developer Team website, project, software and app. We currently provide live updates of all of our website, project, software and app status in this page for you to know.<br><br>Software and Website Developer Team is a small team based in Malaysia. Software and Website Developer Team is focused in website and software. Software and Website Developer Team is founded from a group of young friends with an interest in technology.
   navbar:
     - title: Status
       href: /
+    - title: Main Website
+      href: https://software-and-website-developer-team.github.io/
+    - title: Web App
+      href: https://software-and-website-developer-team.github.io/Web-App
+    - title: Documentation
+      href: https://software-and-website-developer-team.github.io/Documentation
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
