@@ -30,5 +30,8 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+i18n:
+  footer: Software and Website Developer Team Status is totally [open source]($REPO) for everyone in the world to read and study our codes anytime in the year. 
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
