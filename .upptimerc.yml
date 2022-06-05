@@ -1,37 +1,37 @@
 # Change these first
-owner: Software-and-Website-Developer-Team # Your GitHub organization or username, where this repository lives
+owner: One-Future-Unified-Team # Your GitHub organization or username, where this repository lives
 repo: Status # The name of this repository
 
 sites:
   - name: Main Site
-    url: https://software-and-website-developer-team.github.io/
+    url: https://one-future-unified-team.github.io/
   - name: Web App
-    url: https://software-and-website-developer-team.github.io/Web-App/
+    url: https://one-future-unified-team.github.io/Web-App/
   - name: Documentation
-    url: https://software-and-website-developer-team.github.io/Documentation/
+    url: https://one-future-unified-team.github.io/Documentation/
   - name: Store
-    url: https://software-and-website-developer-team.github.io/Store/
+    url: https://one-future-unified-team.github.io/Store/
 
 status-website:
   baseUrl: /Status
-  logoUrl: https://software-and-website-developer-team.github.io/logo.png
-  name: SWDT Status
-  introTitle: "Software and Website Developer Team Status"
-  introMessage: Welcome to the official status page of Software and Website Developer Team. A place to know more about the status of Software and Website Developer Team website, project, software and app. We currently provide live updates of all of our website, project, software and app status in this page for you to know.<br><br>Software and Website Developer Team is a small team based in Malaysia. Software and Website Developer Team is focused in website and software. Software and Website Developer Team is founded from a group of young friends with an interest in technology.
+  logoUrl: https://one-future-unified-team.github.io/logo.png
+  name: OFUT Status
+  introTitle: "One Future Unified Team Status"
+  introMessage: Welcome to the official status page of One Future Unified Team. A place to know more about the status of One Future Unified Team website, project, software and app. We currently provide live updates of all of our website, project, software and app status in this page for you to know.<br><br>One Future Unified Team is a small team based in Malaysia. One Future Unified Team is focused in many things, from web development to story writing. One Future Unified Team is founded from a group of young friends with an interest in technology.
   navbar:
     - title: Status
       href: /
     - title: Main Website
-      href: https://software-and-website-developer-team.github.io/
+      href: https://one-future-unified-team.github.io/
     - title: Web App
-      href: https://software-and-website-developer-team.github.io/Web-App
+      href: https://one-future-unified-team.github.io/Web-App
     - title: Documentation
-      href: https://software-and-website-developer-team.github.io/Documentation
+      href: https://one-future-unified-team.github.io/Documentation
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
 i18n:
-  footer: Software and Website Developer Team Status is totally [open source]($REPO) for everyone in the world to read and study our codes anytime in the year. 
+  footer: One Future Unified Team Status is totally [open source]($REPO) for everyone in the world to read and study our codes anytime in the year. 
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
