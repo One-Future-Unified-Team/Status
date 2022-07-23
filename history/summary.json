@@ -1,7 +1,7 @@
 [
   {
     "name": "Main Site",
-    "url": "https://onefutureunifiedteam.tk/",
+    "url": "https://onefutureunifiedteam.tk",
     "icon": "https://favicons.githubusercontent.com/onefutureunifiedteam.tk",
     "slug": "main-site",
     "status": "up",
@@ -21,7 +21,7 @@
   },
   {
     "name": "Web App",
-    "url": "https://web-app.onefutureunifiedteam.tk/",
+    "url": "https://web-app.onefutureunifiedteam.tk",
     "icon": "https://favicons.githubusercontent.com/web-app.onefutureunifiedteam.tk",
     "slug": "web-app",
     "status": "up",
@@ -41,7 +41,7 @@
   },
   {
     "name": "Documentation",
-    "url": "https://documentation.onefutureunifiedteam.tk/",
+    "url": "https://documentation.onefutureunifiedteam.tk",
     "icon": "https://favicons.githubusercontent.com/documentation.onefutureunifiedteam.tk",
     "slug": "documentation",
     "status": "up",
@@ -61,7 +61,7 @@
   },
   {
     "name": "Store",
-    "url": "https://store.onefutureunifiedteam.tk/",
+    "url": "https://store.onefutureunifiedteam.tk",
     "icon": "https://favicons.githubusercontent.com/store.onefutureunifiedteam.tk",
     "slug": "store",
     "status": "up",
@@ -81,7 +81,7 @@
   },
   {
     "name": "API",
-    "url": "https://api.onefutureunifiedteam.tk/",
+    "url": "https://api.onefutureunifiedteam.tk",
     "icon": "https://favicons.githubusercontent.com/api.onefutureunifiedteam.tk",
     "slug": "api",
     "status": "up",
@@ -99,7 +99,7 @@
   },
   {
     "name": "Partner",
-    "url": "https://partner.onefutureunifiedteam.tk/",
+    "url": "https://partner.onefutureunifiedteam.tk",
     "icon": "https://favicons.githubusercontent.com/partner.onefutureunifiedteam.tk",
     "slug": "partner",
     "status": "up",
@@ -117,7 +117,7 @@
   },
   {
     "name": "Forum",
-    "url": "https://forum.onefutureunifiedteam.tk/",
+    "url": "https://forum.onefutureunifiedteam.tk",
     "icon": "https://favicons.githubusercontent.com/forum.onefutureunifiedteam.tk",
     "slug": "forum",
     "status": "up",
@@ -135,7 +135,7 @@
   },
   {
     "name": "InfoHQ",
-    "url": "https://infohq.onefutureunifiedteam.tk/",
+    "url": "https://infohq.onefutureunifiedteam.tk",
     "icon": "https://favicons.githubusercontent.com/infohq.onefutureunifiedteam.tk",
     "slug": "info-hq",
     "status": "up",
@@ -153,7 +153,7 @@
   },
   {
     "name": "Staff",
-    "url": "https://staff.onefutureunifiedteam.tk/",
+    "url": "https://staff.onefutureunifiedteam.tk",
     "icon": "https://favicons.githubusercontent.com/staff.onefutureunifiedteam.tk",
     "slug": "staff",
     "status": "up",
@@ -171,60 +171,62 @@
   },
   {
     "name": "Workplace",
-    "url": "https://workplace.onefutureunifiedteam.tk/",
+    "url": "https://workplace.onefutureunifiedteam.tk",
     "icon": "https://favicons.githubusercontent.com/workplace.onefutureunifiedteam.tk",
     "slug": "workplace",
     "status": "down",
-    "uptime": "0.18%",
-    "uptimeDay": "0.18%",
-    "uptimeWeek": "0.18%",
-    "uptimeMonth": "0.18%",
-    "uptimeYear": "0.18%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 166,
     "timeDay": 166,
     "timeWeek": 166,
     "timeMonth": 166,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2022-07-23": 12
+      "2022-07-23": 20
     }
   },
   {
     "name": "Teenager Heroes",
-    "url": "https://teenager-heroes.tk/",
+    "url": "https://teenager-heroes.tk",
     "icon": "https://favicons.githubusercontent.com/teenager-heroes.tk",
     "slug": "teenager-heroes",
     "status": "down",
-    "uptime": "0.07%",
-    "uptimeDay": "0.07%",
-    "uptimeWeek": "0.07%",
-    "uptimeMonth": "0.07%",
-    "uptimeYear": "0.07%",
+    "uptime": "0.08%",
+    "uptimeDay": "0.08%",
+    "uptimeWeek": "0.08%",
+    "uptimeMonth": "0.08%",
+    "uptimeYear": "0.08%",
     "time": 236,
     "timeDay": 236,
     "timeWeek": 236,
     "timeMonth": 236,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2022-07-23": 12
+      "2022-07-23": 20
     }
   },
   {
     "name": "PJ Masks Community",
-    "url": "https://staff.onefutureunifiedteam.tk/",
-    "icon": "https://favicons.githubusercontent.com/staff.onefutureunifiedteam.tk",
+    "url": "https://pjmaskssavetheday.tk",
+    "icon": "https://favicons.githubusercontent.com/pjmaskssavetheday.tk",
     "slug": "pj-masks-community",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 20,
-    "timeDay": 20,
-    "timeWeek": 20,
-    "timeMonth": 20,
-    "timeYear": 20,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.33%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.33%",
+    "time": 74,
+    "timeDay": 74,
+    "timeWeek": 74,
+    "timeMonth": 74,
+    "timeYear": 74,
+    "dailyMinutesDown": {
+      "2022-07-23": 0
+    }
   }
 ]
