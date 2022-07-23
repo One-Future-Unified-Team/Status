@@ -13,7 +13,7 @@ sites:
     url: https://one-future-unified-team.github.io/Store/
 
 status-website:
-  baseUrl: /Status
+  baseUrl: status.onefutureunifiedteam.tk
   logoUrl: https://one-future-unified-team.github.io/logo.png
   name: OFUT Status
   introTitle: "One Future Unified Team Status"
