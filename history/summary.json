@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 103,
-    "timeDay": 252,
-    "timeWeek": 139,
-    "timeMonth": 106,
-    "timeYear": 103,
+    "time": 105,
+    "timeDay": 274,
+    "timeWeek": 159,
+    "timeMonth": 113,
+    "timeYear": 105,
     "dailyMinutesDown": {
       "2022-06-05": 91
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 58,
-    "timeDay": 212,
-    "timeWeek": 97,
-    "timeMonth": 67,
-    "timeYear": 58,
+    "time": 61,
+    "timeDay": 246,
+    "timeWeek": 122,
+    "timeMonth": 75,
+    "timeYear": 61,
     "dailyMinutesDown": {
       "2022-06-05": 91
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 63,
-    "timeDay": 326,
-    "timeWeek": 134,
-    "timeMonth": 75,
-    "timeYear": 63,
+    "time": 66,
+    "timeDay": 336,
+    "timeWeek": 157,
+    "timeMonth": 84,
+    "timeYear": 66,
     "dailyMinutesDown": {
       "2022-06-05": 91
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 57,
-    "timeDay": 223,
-    "timeWeek": 96,
-    "timeMonth": 58,
-    "timeYear": 57,
+    "time": 61,
+    "timeDay": 271,
+    "timeWeek": 128,
+    "timeMonth": 69,
+    "timeYear": 61,
     "dailyMinutesDown": {
       "2022-06-05": 91
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 288,
-    "timeDay": 288,
-    "timeWeek": 288,
-    "timeMonth": 288,
-    "timeYear": 288,
+    "time": 230,
+    "timeDay": 230,
+    "timeWeek": 230,
+    "timeMonth": 230,
+    "timeYear": 230,
     "dailyMinutesDown": {}
   },
   {
@@ -102,6 +102,24 @@
     "url": "https://partner.onefutureunifiedteam.tk/",
     "icon": "https://favicons.githubusercontent.com/partner.onefutureunifiedteam.tk",
     "slug": "partner",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 300,
+    "timeDay": 300,
+    "timeWeek": 300,
+    "timeMonth": 300,
+    "timeYear": 300,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Forum",
+    "url": "https://forum.onefutureunifiedteam.tk/",
+    "icon": "https://favicons.githubusercontent.com/forum.onefutureunifiedteam.tk",
+    "slug": "forum",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
@@ -116,24 +134,6 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Forum",
-    "url": "https://forum.onefutureunifiedteam.tk/",
-    "icon": "https://favicons.githubusercontent.com/forum.onefutureunifiedteam.tk",
-    "slug": "forum",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 277,
-    "timeDay": 277,
-    "timeWeek": 277,
-    "timeMonth": 277,
-    "timeYear": 277,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "InfoHQ",
     "url": "https://infohq.onefutureunifiedteam.tk/",
     "icon": "https://favicons.githubusercontent.com/infohq.onefutureunifiedteam.tk",
@@ -144,11 +144,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 275,
-    "timeDay": 275,
-    "timeWeek": 275,
-    "timeMonth": 275,
-    "timeYear": 275,
+    "time": 233,
+    "timeDay": 233,
+    "timeWeek": 233,
+    "timeMonth": 233,
+    "timeYear": 233,
     "dailyMinutesDown": {}
   },
   {
@@ -162,11 +162,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 264,
-    "timeDay": 264,
-    "timeWeek": 264,
-    "timeMonth": 264,
-    "timeYear": 264,
+    "time": 305,
+    "timeDay": 305,
+    "timeWeek": 305,
+    "timeMonth": 305,
+    "timeYear": 305,
     "dailyMinutesDown": {}
   },
   {
@@ -175,18 +175,18 @@
     "icon": "https://favicons.githubusercontent.com/workplace.onefutureunifiedteam.tk",
     "slug": "workplace",
     "status": "down",
-    "uptime": "4.15%",
-    "uptimeDay": "4.15%",
-    "uptimeWeek": "4.15%",
-    "uptimeMonth": "4.15%",
-    "uptimeYear": "4.15%",
-    "time": 265,
-    "timeDay": 265,
-    "timeWeek": 265,
-    "timeMonth": 265,
-    "timeYear": 265,
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
+    "time": 229,
+    "timeDay": 229,
+    "timeWeek": 229,
+    "timeMonth": 229,
+    "timeYear": 229,
     "dailyMinutesDown": {
-      "2022-07-23": 0
+      "2022-07-23": 10
     }
   },
   {
@@ -195,18 +195,18 @@
     "icon": "https://favicons.githubusercontent.com/teenager-heroes.tk",
     "slug": "teenager-heroes",
     "status": "down",
-    "uptime": "6.28%",
-    "uptimeDay": "6.28%",
-    "uptimeWeek": "6.28%",
-    "uptimeMonth": "6.28%",
-    "uptimeYear": "6.28%",
-    "time": 258,
-    "timeDay": 258,
-    "timeWeek": 258,
-    "timeMonth": 258,
-    "timeYear": 258,
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
+    "time": 235,
+    "timeDay": 235,
+    "timeWeek": 235,
+    "timeMonth": 235,
+    "timeYear": 235,
     "dailyMinutesDown": {
-      "2022-07-23": 0
+      "2022-07-23": 10
     }
   },
   {
@@ -220,11 +220,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 16,
-    "timeDay": 16,
-    "timeWeek": 16,
-    "timeMonth": 16,
-    "timeYear": 16,
+    "time": 22,
+    "timeDay": 22,
+    "timeWeek": 22,
+    "timeMonth": 22,
+    "timeYear": 22,
     "dailyMinutesDown": {}
   }
 ]
