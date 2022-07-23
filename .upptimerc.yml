@@ -4,29 +4,29 @@ repo: Status # The name of this repository
 
 sites:
   - name: Main Site
-    url: https://onefutureunifiedteam.tk/
+    url: https://onefutureunifiedteam.tk
   - name: Web App
-    url: https://web-app.onefutureunifiedteam.tk/
+    url: https://web-app.onefutureunifiedteam.tk
   - name: Documentation
-    url: https://documentation.onefutureunifiedteam.tk/
+    url: https://documentation.onefutureunifiedteam.tk
   - name: Store
-    url: https://store.onefutureunifiedteam.tk/
+    url: https://store.onefutureunifiedteam.tk
   - name: API
-    url: https://api.onefutureunifiedteam.tk/
+    url: https://api.onefutureunifiedteam.tk
   - name: Partner
-    url: https://partner.onefutureunifiedteam.tk/
+    url: https://partner.onefutureunifiedteam.tk
   - name: Forum
-    url: https://forum.onefutureunifiedteam.tk/
+    url: https://forum.onefutureunifiedteam.tk
   - name: InfoHQ
-    url: https://infohq.onefutureunifiedteam.tk/
+    url: https://infohq.onefutureunifiedteam.tk
   - name: Staff
-    url: https://staff.onefutureunifiedteam.tk/
+    url: https://staff.onefutureunifiedteam.tk
   - name: Workplace
-    url: https://workplace.onefutureunifiedteam.tk/
+    url: https://workplace.onefutureunifiedteam.tk
   - name: Teenager Heroes
-    url: https://teenager-heroes.tk/
+    url: https://teenager-heroes.tk
   - name: PJ Masks Community
-    url: https://staff.onefutureunifiedteam.tk/
+    url: https://pjmaskssavetheday.tk
 
 status-website:
   cname: status.onefutureunifiedteam.tk
